@@ -11,7 +11,7 @@ let quotes = [
     "김병진 뒤져라. -김병진-" ,
     "최민재 퐁퐁남 아니다. -최민재-",
     "최민재는 거짓말쟁이다. -김병진-",
-    ".-김동희-"] 
+    "씨발람아. -김봉아-"] 
 
 function hey() { 
     let random = quotes[Math.floor(Math.random() * quotes.length)];
